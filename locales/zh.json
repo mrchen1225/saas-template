@@ -1,0 +1,242 @@
+{
+  "Hero": {
+    "title1": "人工智能",
+    "title2": "AI干扰",
+    "title3": "滤镜",
+    "description": "使用独特的AI纹理和滤镜保护您的艺术作品"
+  },
+  "Intro": {
+    "title": "是时候保护您的艺术了！",
+    "description1": "艺术家们！是时候采取行动保护您的创作了！像MidJourney和Stable Diffusion这样的AI生成模型未经同意就训练了艺术家的作品，侵犯了版权和隐私。不要让您独特的风格成为AI的免费燃料。现在采用AI干扰技术来保护您的原创作品免受未经授权的复制和模仿。维护您的艺术主权和创造尊严。"
+  },
+  "ImageWall": {
+    "title": "可视化"
+  },
+  "SocialProof": {
+    "maker": "艺术家使用AI干扰覆盖层保护艺术作品"
+  },
+  "Feature": {
+    "title": "特点"
+  },
+  "Pricing": {
+    "title": "定价",
+    "title2": "获取无限访问权限。",
+    "description": "解锁此工具的所有特性。",
+    "doYouLike": "您喜欢这个工具吗？",
+    "follow": "关注我的Twitter。"
+  },
+  "WallOfLove": {
+    "title": "爱的墙",
+    "description1": "如果您使用这个工具并在您的Twitter上推荐它，",
+    "description2": "请告诉我",
+    "description3": "。我将在这里展示您的推文和推荐。"
+  },
+  "FAQ": {
+    "title": "常见问题解答",
+    "description": "这里是一些最常被问到的问题。"
+  },
+  "CTA": {
+    "title": "现在保护您的艺术作品，释放AI的力量！",
+    "description1": "上传",
+    "description2": "您的艺术作品，",
+    "description3": "与AI",
+    "description4": "斗争，",
+    "description5": "保护",
+    "description6": "您的艺术作品赋予生命！"
+  },
+  "CTAButton": {
+    "title": "保护您的艺术作品"
+  },
+  "ProductsTable": {
+    "title": "图片",
+    "description": "描述",
+    "image": "图片",
+    "createdAt": "创建时间",
+    "id": "ID",
+    "status": "状态",
+    "actions": "操作",
+    "showing": "显示",
+    "of": "共",
+    "products": "张图片",
+    "prev": "上一页",
+    "next": "下一页",
+    "product": {
+      "dateLocale": "zh-CN",
+      "invalidDate": "无效日期",
+      "noDescription": "无描述",
+      "status": {
+        "PAID": "已支付",
+        "PROCESSING": "处理中",
+        "PROCESSED": "已处理"
+      },
+      "processingTooltip": "请耐心等待并查看您的邮箱以获取确认。我们将在24小时内将结果发送到您的邮箱。如果您没有收到带有AI干扰的图片，可以发送邮件至support@aidisturbance.online",
+      "pleaseWait": "请等待",
+      "download": "下载",
+      "protectNow": "立即保护",
+      "toggleMenu": "切换菜单",
+      "actions": "操作",
+      "deleteSuccess": "图片删除成功",
+      "deleteFailed": "图片删除失败",
+      "error": "错误",
+      "delete": "删除"
+    }
+  },
+  "UploadNewPicture": {
+    "title": "上传新图片",
+    "errorSelectFile": "请在上传前选择一个文件。",
+    "errorUpload": "上传图片失败",
+    "errorSave": "保存图片失败",
+    "dragDropText": "拖放图片到这里，或点击选择一张",
+    "selectedFile": "已选择文件",
+    "uploading": "上传中...",
+    "protectArtwork": "立即保护您的艺术作品"
+  },
+  "Overlay": {
+    "stepOneAlt": "第一步",
+    "stepTwoTip": "2. 请详细描述图片。",
+    "stepThreeTip": "3. 等待付款。",
+    "signInButton": "登录以使图片私密",
+    "progress": "进度",
+    "fetchPictureError": "获取图片信息失败。",
+    "dataFetchError": "获取数据错误：",
+    "referralProcessError": "处理推荐注册失败：",
+    "signedUrlError": "获取签名URL失败。",
+    "signedUrl": "签名URL",
+    "signedUrlDescription": "点击获取签名URL。",
+    "signedUrlButton": "获取签名URL",
+    "stepOne": {
+      "title": "AI干扰即将完成！",
+      "description": "请详细描述图片。",
+      "button": "最后一步",
+      "aiDisturbanceAlmostDone": "AI干扰即将完成！",
+      "pictureNotFound": "未找到图片",
+      "inputDescriptionPlaceholder": "请详细描述图片。"
+    },
+    "stepTwo": {
+      "title": "第二步",
+      "description": "请详细描述图片。",
+      "button": "下一步",
+      "free": {
+        "title": "免费分享",
+        "description": "分享给你的朋友，如果有人注册，你将获得10积分",
+        "buttonText": "生成分享链接",
+        "success": "分享链接已生成，去分享给你的朋友吧！",
+        "failed": "生成分享链接失败，请稍后再试",
+        "copySuccess": "链接已复制到剪贴板",
+        "features": [
+          "完全免费",
+          "无需信用卡",
+          "无需订阅"
+        ]
+      },
+      "payForOnce": {
+        "title": "一次性付费",
+        "description": "仅需一次付费，建议您订阅我们的月度计划",
+        "buttonText": "立即付款",
+        "price": "$2 / 一次",
+        "features": [
+          "无其他要求",
+          "仅供尝试",
+          "无需订阅"
+        ],
+        "failed": "获取签名URL失败。"
+      },
+      "useCredits": {
+        "title": "使用积分",
+        "description": "您可以使用积分支付。新用户可以免费获得5积分",
+        "buttonText": "使用积分",
+        "price": "10积分 / 一次",
+        "features": [
+          "分享给朋友可以再赚10积分",
+          "每月仅$9.9可赚取100积分/月",
+          "每月仅$39可赚取500积分/月"
+        ],
+        "failed": "使用积分失败。",
+        "confirm": "您确定要使用10积分来处理这张图片吗？",
+        "success": "成功！请等待处理，大约需要24小时"
+      } 
+    },
+    "stepThree": {
+      "title": "成功！",
+      "description": "请耐心等待并查看您的邮箱以获取确认。我们将在24小时内将结果发送到您的邮箱。",
+      "button": "下载",
+      "failed": "获取签名URL失败。",
+      "status": "状态",
+      "processingSuccess": "处理成功",
+      "processingFailed": "处理失败",
+      "processed": "已处理",
+      "goToWorkbench": "前往工作台"
+    }
+  },
+  "Workbench": {
+    "title": "工作台",
+    "footer": "© 2024 AI Disturbance. 保留所有权利。"
+  },
+  "Breadcrumb": {
+    "title": "仪表板",
+    "allPictures": "所有图片"
+  },
+  "Texture": {
+    "title": "AI干扰叠加图像编辑器",
+    "signInButton": "登录以使图片私密",
+    "loading": "正在加载图片...",
+    "imageIdNotProvided": "未提供图片ID",
+    "fetchImageFailed": "获取图片失败",
+    "errorFetchingImage": "获取图片时出错",
+    "referralProcessError": "处理推荐注册失败",
+    "status": "状态"
+  },
+  "ImageEditor": {
+    "adjustTextureStrength": "调整纹理扭曲强度：",
+    "adjustBlendStrength": "调整混合强度：",
+    "beforeDownloadAdjustedImage": "请先上传一张图片",
+    "downloadAdjustedImage": "下载调整后的图片",
+    "selectStyle": "选择样式",
+    "uploadCustomStyle": "上传自定义样式",
+    "chooseFile": "选择文件",
+    "customStylePreview": "自定义样式预览",
+    "insufficientCredits": "积分不足",
+    "insufficientCreditsDescription": "您没有足够的积分来下载这张图片。请选择以下选项之一：",
+    "oneTimePayment": "一次性付款",
+    "rechargeCredits": "充值积分",
+    "generatingTexture": "正在为此图片生成自定义纹理，请稍候...",
+    "close": "关闭",
+    "fetchPictureStatusError": "获取图片状态失败",
+    "creditsDeductedSuccess": "积分扣除成功",
+    "creditsDeductionFailed": "积分扣除失败",
+    "error": "错误",
+    "shareLinkGenerated": "分享链接生成成功",
+    "shareLinkGenerationFailed": "分享链接生成失败",
+    "generateShareLink": "生成分享链接",
+    "generateShareLinkDescription": "生成分享链接并与朋友分享以获得10积分",
+    "shareLinkGeneratedMessage": "分享链接已生成。与朋友分享以获得10积分！",
+    "fileSizeError": "匿名用户仅支持上传1MB以内的图片，请登录以使用完整功能",
+    "fileCheckError": "文件检查失败，请重试",
+    "joinDiscord": "加入Discord获得50积分",
+    "discordJoinSuccess": "成功加入Discord！积分已添加到您的账户",
+    "discordJoinError": "加入Discord失败，请稍后重试",
+    "downloadImage": "下载图片",
+    "downloadOptions": "下载选项",
+    "useCredits": "使用积分下载无水印版本",
+    "credits": "积分",
+    "yourCredits": "您的积分",
+    "unlockPremiumFeatures": "解锁高级功能",
+    "benefit1": "立即获得无限次下载此图片的权利，随时随地，不限次数",
+    "benefit2": "可以随时调整图片效果，找到完美的艺术效果",
+    "benefit3": "立即获得原始尺寸、高质量的无水印版本",
+    "benefit4": "仅需一杯水的价格，永久保护您的艺术作品",
+    "oneTimePayment": "一次性付款",
+    "instantAccess": "立即获得访问权限",
+    "unlockNow": "立即解锁",
+    "securePayment": "安全支付保证",
+    "hideOptions": "隐藏其他选项",
+    "showMoreOptions": "查看其他选项",
+    "shareToGetCredits": "分享获得积分",
+    "watchAdToDownload": "观看30秒广告下载带水印版本（本次免费）",
+    "watchingAd": "广告展示中",
+    "downloadStartsIn": "下载将在",
+    "seconds": "秒后开始",
+    "downloadNow": "立即下载",
+    "copy": "复制"
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "Hero": {
+    "title1": "AI",
+    "title2": "Disturbance",
+    "title3": "Overlay",
+    "description": "Protege tu arte con texturas y filtros AI únicos"
+  },
+  "Intro": {
+    "title": "¡Es hora de proteger tu arte!",
+    "description1": "Artistas! Es hora de actuar para proteger sus creaciones. Los modelos generativos de AI como MidJourney y Stable Diffusion han sido entrenados en las obras de los artistas sin consentimiento, violando derechos de autor y privacidad. No permitas que tu estilo único se convierta en combustible gratis para la IA. Adopta la tecnología de perturbación de AI ahora para proteger tus obras originales de copias y imitaciones no autorizadas. Defiende tu soberanía artística y dignidad creativa."
+  },
+  "ImageWall": {
+    "title": "Visualización"
+  },
+  "SocialProof": {
+    "maker": "Los artistas protegen su obra de arte con la superposición de perturbación de AI"
+  },
+  "Feature": {
+    "title": "Características"
+  },
+  "Pricing": {
+    "title": "Precios",
+    "title2": "Obtén acceso ilimitado.",
+    "description": "Desbloquea todas las funciones de esta herramienta.",
+    "doYouLike": "¿Te gusta esta herramienta?",
+    "follow": "Sigue mi Twitter."
+  },
+  "WallOfLove": {
+    "title": "Pared del Amor",
+    "description1": "Si utilizas esta herramienta y la recomendas en tu Twitter,",
+    "description2": "por favor avísame",
+    "description3": ". Mostraré tu tweet y tu recomendación aquí."
+  },
+  "FAQ": {
+    "title": "Preguntas frecuentes",
+    "description": "Aquí hay algunas de las preguntas más frecuentes."
+  },
+  "CTA": {
+    "title": "¡Protege tu obra de arte ahora y libera el poder de la IA!",
+    "description1": "Sube",
+    "description2": "tu obra de arte,",
+    "description3": "lucha",
+    "description4": "contra la IA,",
+    "description5": "protege",
+    "description6": "tu obra de arte a la vida."
+  },
+  "CTAButton": {
+    "title": "Protege tu obra de arte"
+  },
+  "ProductsTable": {
+    "title": "Imágenes",
+    "description": "Protege tu obra de arte (Las imágenes con más de 7 días de antigüedad se eliminarán automáticamente)",
+    "image": "Imagen",
+    "createdAt": "Creado el",
+    "id": "ID",
+    "status": "Estado",
+    "actions": "Acciones",
+    "showing": "Mostrando",
+    "of": "de",
+    "products": "imágenes",
+    "prev": "Anterior",
+    "next": "Siguiente",
+    "product": {
+      "dateLocale": "es-ES",
+      "invalidDate": "Fecha inválida",
+      "noDescription": "Sin descripción",
+      "status": {
+        "PAID": "Pagado",
+        "PROCESSING": "Procesando",
+        "PROCESSED": "Procesado"
+      },
+      "processingTooltip": "Por favor, espere pacientemente y revise su correo electrónico para la confirmación. Enviaremos el resultado a su correo electrónico en 24 horas. Si no recibió la imagen con perturbación de IA, puede enviar un correo electrónico a support@aidisturbance.online",
+      "pleaseWait": "Por favor espere",
+      "download": "Descargar",
+      "protectNow": "Proteger ahora",
+      "toggleMenu": "Alternar menú",
+      "actions": "Acciones",
+      "deleteSuccess": "Imagen eliminada con éxito",
+      "deleteFailed": "Error al eliminar la imagen",
+      "error": "Error",
+      "delete": "Eliminar"
+    }
+  },
+  "UploadNewPicture": {
+    "title": "Subir nueva imagen",
+    "errorSelectFile": "Por favor, seleccione un archivo antes de subir.",
+    "errorUpload": "Error al subir la imagen",
+    "errorSave": "Error al guardar la imagen",
+    "dragDropText": "Arrastra y suelta una imagen aquí, o haz clic para seleccionar una",
+    "selectedFile": "Archivo seleccionado",
+    "uploading": "Subiendo...",
+    "protectArtwork": "Protege tu obra de arte ahora"
+  },
+  "Overlay": {
+    "stepOneAlt": "Paso Uno",
+    "stepTwoTip": "2. Por favor, describe la imagen en detalle.",
+    "stepThreeTip": "3. Esperando el pago.",
+    "signInButton": "Inicia sesión para hacer la imagen privada",
+    "progress": "Progreso",
+    "fetchPictureError": "Error al obtener la información de la imagen.",
+    "dataFetchError": "Error al obtener datos:",
+    "referralProcessError": "Error al procesar el registro de referidos:",
+    "signedUrlError": "Error al obtener una URL firmada.",
+    "signedUrl": "URL firmada",
+    "signedUrlDescription": "Haz clic para obtener una URL firmada.",
+    "signedUrlButton": "Obtener URL firmada",
+    "stepOne": {
+      "title": "¡Perturbación de IA casi terminada!",
+      "description": "Por favor, describe la imagen en detalle.",
+      "button": "Paso final",
+      "aiDisturbanceAlmostDone": "¡Perturbación de IA casi terminada!",
+      "pictureNotFound": "Imagen no encontrada",
+      "inputDescriptionPlaceholder": "Por favor, describe la imagen en detalle."
+    },
+    "stepTwo": {
+      "title": "Paso Dos",
+      "description": "Por favor, describe la imagen en detalle.",
+      "button": "Siguiente",
+      "free": {
+        "title": "Compartir gratis",
+        "description": "Comparte con tus amigos, si alguien se registra, ganarás 10 créditos",
+        "buttonText": "Generar enlace para compartir",
+        "success": "Enlace para compartir generado, ¡compártelo con tus amigos!",
+        "failed": "Error al generar el enlace para compartir, por favor intenta de nuevo más tarde",
+        "copySuccess": "Enlace copiado al portapapeles",
+        "features": [
+          "Totalmente gratis",
+          "No se requiere tarjeta de crédito",
+          "No se requiere suscripción"
+        ]
+      },
+      "payForOnce": {
+        "title": "Pagar una vez",
+        "description": "Paga solo una vez, te sugerimos suscribirte a nuestro plan mensual",
+        "buttonText": "Pagar ahora",
+        "price": "$2 / Una vez",
+        "features": [
+          "Sin más solicitudes",
+          "Solo para probar",
+          "No se requiere suscripción"
+        ],
+        "failed": "Error al obtener una URL firmada."
+      },
+      "useCredits": {
+        "title": "Usar créditos",
+        "description": "Puedes usar tus créditos para pagar. Los nuevos usuarios obtienen 5 créditos gratis",
+        "buttonText": "Usar créditos",
+        "price": "10 créditos / Una vez",
+        "features": [
+          "Compartir con tus amigos te dará 10 créditos más",
+          "Solo $9.9 al mes te dará 100 créditos / mes",
+          "Solo $39 al mes te dará 500 créditos / mes"
+        ],
+        "failed": "Error al usar los créditos.",
+        "confirm": "¿Estás seguro de que quieres usar 10 créditos para procesar esta imagen?",
+        "success": "¡Éxito! Por favor, espera el procesamiento, tomará alrededor de 24 horas"
+      } 
+    },
+    "stepThree": {
+      "title": "¡Éxito!",
+      "description": "Por favor, espera pacientemente y revisa tu correo electrónico para la confirmación. Enviaremos el resultado a tu correo electrónico en 24 horas.",
+      "button": "Descargar",
+      "failed": "Error al obtener una URL firmada.",
+      "status": "Estado",
+      "processingSuccess": "Procesamiento exitoso",
+      "processingFailed": "Procesamiento fallido",
+      "processed": "Procesado",
+      "goToWorkbench": "Ir al área de trabajo"
+    }
+  },
+  "Workbench": {
+    "title": "Área de trabajo",
+    "footer": "© 2024 AI Disturbance. Todos los derechos reservados."
+  },
+  "Breadcrumb": {
+    "title": "Panel de control",
+    "allPictures": "Todas las imágenes"
+  },
+  "Texture": {
+    "title": "Editor de Imagen de Superposición de Perturbación AI",
+    "signInButton": "Iniciar sesión para hacer la imagen privada",
+    "loading": "Cargando imagen...",
+    "imageIdNotProvided": "ID de imagen no proporcionado",
+    "fetchImageFailed": "Error al obtener la imagen",
+    "errorFetchingImage": "Error al obtener la imagen",
+    "referralProcessError": "Error al procesar el registro de referidos",
+    "status": "Estado"
+  },
+  "ImageEditor": {
+    "adjustTextureStrength": "Ajustar la fuerza de distorsión de la textura:",
+    "adjustBlendStrength": "Ajustar la fuerza de mezcla:",
+    "beforeDownloadAdjustedImage": "Por favor, sube una imagen primero",
+    "downloadImage": "Descargar imagen",
+    "downloadAdjustedImage": "Descargar imagen sin marca de agua",
+    "downloadWatermarkedImage": "Descargar imagen con marca de agua (Gratis)",
+    "selectStyle": "Seleccionar estilo",
+    "uploadCustomStyle": "Subir estilo personalizado",
+    "chooseFile": "Elegir archivo",
+    "customStylePreview": "Vista previa del estilo personalizado",
+    "insufficientCredits": "Créditos insuficientes",
+    "error": "Error",
+    "shareLinkGenerated": "Enlace de compartir generado con éxito",
+    "shareLinkGenerationFailed": "Error al generar el enlace de compartir",
+    "linkCopied": "Enlace copiado",
+    "downloadOptions": "Opciones de descarga",
+    "useCredits": "Usar créditos para descargar versión sin marca de agua",
+    "credits": "créditos",
+    "yourCredits": "Tus créditos",
+    "unlockPremiumFeatures": "Desbloquear funciones premium",
+    "benefit1": "Obtén inmediatamente el derecho a descargar esta imagen ilimitadamente, en cualquier momento",
+    "benefit2": "Puedes ajustar el efecto de la imagen en cualquier momento, encuentra el efecto artístico perfecto",
+    "benefit3": "Obtén inmediatamente la versión de tamaño original, alta calidad sin marca de agua",
+    "benefit4": "Solo el precio de una taza de agua, para proteger permanentemente tu obra artística",
+    "oneTimePayment": "Pago único",
+    "instantAccess": "Acceso inmediato",
+    "unlockNow": "Desbloquear ahora",
+    "securePayment": "Garantía de pago seguro",
+    "hideOptions": "Ocultar otras opciones",
+    "showMoreOptions": "Ver otras opciones",
+    "shareToGetCredits": "Compartir para obtener créditos",
+    "watchAdToDownload": "Ver anuncio de 30 segundos para descargar versión con marca de agua (gratis esta vez)",
+    "rechargeCredits": "Recargar créditos",
+    "close": "Cerrar",
+    "watchingAd": "Mostrando anuncio",
+    "downloadStartsIn": "La descarga comenzará en",
+    "seconds": "segundos",
+    "downloadNow": "Descargar ahora",
+    "copy": "Copiar",
+    "generatingTexture": "Generando textura...",
+    "pleaseWait": "Por favor espera mientras procesamos tu imagen"
+  }
+}

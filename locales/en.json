@@ -1,0 +1,239 @@
+{
+  "Hero": {
+    "title1": "AI",
+    "title2": "Disturbance",
+    "title3": "Overlay",
+    "description": "Protect Your Art with Unique AI Textures and Filters"
+  },
+  "Intro": {
+    "title": "It's time to protect your art! ",
+    "effect": "Effect",
+    "description1": "Artists! it's time to take action to protect your creations! AI generative models like MidJourney and Stable Diffusion have been trained on artists' works without consent, infringing on copyrights and privacy. Don't let your unique style become free fuel for AI. Adopt AI Disturbance technology now to shield your original works from unauthorized copying and imitation. Uphold your artistic sovereignty and creative dignity."
+  },
+  "ImageWall": {
+    "title": "Visualization"
+  },
+  "SocialProof": {
+    "maker": "artists protect artwork with AI Disturbance Overlay"
+  },
+  "Feature": {
+    "title": "Features"
+  },
+  "UploadNewPicture": {
+    "title": "Upload New Picture",
+    "errorSelectFile": "Please select a file before uploading.",
+    "errorUpload": "Failed to upload image",
+    "errorSave": "Failed to save image",
+    "dragDropText": "Drag & drop an image here, or click to select one",
+    "selectedFile": "Selected file",
+    "uploading": "Uploading...",
+    "protectArtwork": "Protect Your Artwork Now",
+    "fileSizeError": "Anonymous users only support uploading images of up to 1MB, please log in to use the full features",
+    "fileCheckError": "File check failed, please try again"
+  },
+  "Pricing": {
+    "title": "Pricing",
+    "title2": "Get unlimited access.",
+    "description": "Unlock all the features of this tool.",
+    "doYouLike": "Do you like this tool?",
+    "follow": "Follow my Twitter."
+  },
+  "WallOfLove": {
+    "title": "Wall of Love",
+    "description1": "If you use this tool and recommend it on your Twitter,",
+    "description2": "please let me know",
+    "description3": ". I will display your tweet and recommendation here."
+  },
+  "FAQ": {
+    "title": "FAQ",
+    "description": "Here are some of the most frequently asked questions."
+  },
+  "CTA": {
+    "title": "Protect Your Artwork Now and Unleash the Power of AI!",
+    "description1": "Upload",
+    "description2": " your artwork,",
+    "description3": "fight",
+    "description4": " to the AI,",
+    "description5": "protect",
+    "description6": " your artwork to life!"
+  },
+  "CTAButton": {
+    "title": "Protect Your Artwork"
+  },
+  "Overlay": {
+    "stepOneAlt": "Step One",
+    "stepTwoTip": "2. Please describe the picture in detail.",
+    "stepThreeTip": "3. Waiting for payment.",
+    "signInButton": "Sign In to Make the Picture Private",
+    "progress": "Progress",
+    "fetchPictureError": "Failed to fetch picture information.",
+    "dataFetchError": "Error fetching data:",
+    "referralProcessError": "Failed to process referral registration:",
+    "signedUrlError": "Failed to get a signed URL.",
+    "signedUrl": "Signed URL",
+    "signedUrlDescription": "Click to get a signed URL.",
+    "signedUrlButton": "Get Signed URL",
+    "stepOne": {
+      "title": "AI Disturbance Almost Done!",
+      "description": "Please describe the picture in detail.",
+      "button": "Final Step",
+      "aiDisturbanceAlmostDone": "AI Disturbance Almost Done!",
+      "pictureNotFound": "Picture not found",
+      "inputDescriptionPlaceholder": "Please describe the picture in detail."
+    },
+    "stepTwo": {
+      "title": "Step Two",
+      "description": "Please describe the picture in detail.",
+      "button": "Next",
+      "free": {
+        "title": "Share for Free",
+        "description": "Share to your friends, if someone registered, you will earn 10 credits",
+        "buttonText": "Generate Share Link",
+        "success": "Share link generated, go share it with your friends!",
+        "failed": "Failed to generate share link, please try again later",
+        "copySuccess": "Link copied to clipboard",
+        "features": [
+          "Totally free",
+          "No credit card required",
+          "No subscription required"
+        ]
+      },
+      "payForOnce": {
+        "title": "Pay For Once",
+        "description": "Pay For Only Once, suggest you to subscribe our monthly subscription",
+        "buttonText": "Pay Now",
+        "price": "$2 / Once time",
+        "features": [
+          "No more other requests",
+          "Just for try",
+          "No subscription required"
+        ],
+        "failed": "Failed to get a signed URL."
+      },
+      "useCredits": {
+        "title": "Cost Credits",
+        "description": "You can use your credits to pay. New user can get 5 credits for free",
+        "buttonText": "Use Credits",
+        "price": "10 credit / Once",
+        "features": [
+          "Share to your friends will earn 10 more credits",
+          "Only $9.9 monthly will earn 100 credits / month",
+          "Only $39 monthly will earn 500 credits / month"
+        ],
+        "failed": "Failed to use credits.",
+        "confirm": "Are you sure you want to use 10 credits to process this image?",
+        "success": "Success! Please wait for processing, it will take about 24 hours"
+      } 
+    },
+    "stepThree": {
+      "title": "Success!",
+      "description": "Please wait patiently and check your email for confirmation. We will send the result to your email in 24 Hours.",
+      "button": "Download",
+      "failed": "Failed to get a signed URL.",
+      "status": "Status",
+      "processingSuccess": "PROCESSING_SUCCESS",
+      "processingFailed": "PROCESSING_FAILED",
+      "processed": "PROCESSED",
+      "goToWorkbench": "Go to Workbench"
+    }
+  },
+    
+  "Workbench": {
+    "title": "Workbench",
+    "footer": "© 2024 AI Disturbance. All rights reserved."
+  },
+  "Breadcrumb": {
+    "title": "Dashboard",
+    "allPictures": "All Pictures"
+  },
+  "ProductsTable": {
+    "title": "Pictures",
+    "image": "Image",
+    "createdAt": "Created at",
+    "id": "ID",
+    "description": "Protect your artwork (Images older than 7 days will be automatically deleted)",
+    "status": "Status",
+    "actions": "Actions",
+    "showing": "Showing",
+    "of": "of",
+    "products": "pictures",
+    "prev": "Prev",
+    "next": "Next",
+    "product": {
+      "dateLocale": "en-US",
+      "invalidDate": "Invalid date",
+      "noDescription": "No description",
+      "status": {
+        "PAID": "Paid",
+        "PROCESSING": "Processing",
+        "PROCESSED": "Processed"
+      },
+      "processingTooltip": "Please wait patiently and check your email for confirmation. We will send the result to your email in 24 Hours. If you did not receive the image with AI disturbance, you can send email to support@aidisturbance.online",
+      "pleaseWait": "Please wait",
+      "download": "Download",
+      "protectNow": "Protect now",
+      "toggleMenu": "Toggle menu",
+      "actions": "Actions",
+      "deleteSuccess": "Picture deleted successfully",
+      "deleteFailed": "Picture deletion failed",
+      "error": "Error",
+      "delete": "Delete"
+    }
+  },
+  "Texture": {
+    "title": "AI Disturbance Overlay Image Editor",
+    "signInButton": "Sign In to Make the Picture Private",
+    "loading": "Loading image...",
+    "imageIdNotProvided": "Image ID not provided",
+    "fetchImageFailed": "Failed to fetch image",
+    "errorFetchingImage": "Error fetching image",
+    "referralProcessError": "Failed to process referral registration",
+    "status": "Status"
+  },
+  "ImageEditor": {
+    "adjustTextureStrength": "Adjust texture distortion strength:",
+    "adjustBlendStrength": "Adjust blend strength:",
+    "beforeDownloadAdjustedImage": "Please Upload an Image First",
+    "downloadImage": "Download Image",
+    "downloadAdjustedImage": "Download No-Watermark Image",
+    "downloadWatermarkedImage": "Download Watermarked Image(Free)",
+    "selectStyle": "Select Style",
+    "uploadCustomStyle": "Upload Custom Style",
+    "fileSizeError": "Anonymous users only support uploading images of up to 1MB, please log in to use the full features",
+    "fileCheckError": "File check failed, please try again",
+    "chooseFile": "Choose File",
+    "customStylePreview": "Custom Style Preview",
+    "insufficientCredits": "Insufficient Credits",
+    "error": "Error",
+    "shareLinkGenerated": "Share link generated successfully",
+    "shareLinkGenerationFailed": "Failed to generate share link",
+    "linkCopied": "Link copied",
+    
+    "downloadOptions": "Download Options",
+    "useCredits": "Use credits to download watermark-free version",
+    "credits": "credits",
+    "yourCredits": "Your credits",
+    "unlockPremiumFeatures": "Unlock premium features",
+    "benefit1": "Immediately get the right to download this image unlimited times, anytime, any number of times",
+    "benefit2": "Can adjust the image effect anytime, find the perfect artistic effect",
+    "benefit3": "Immediately get the original size, high-quality watermark-free version",
+    "benefit4": "Only the price of a cup of water, to permanently protect your artistic work",
+    "oneTimePayment": "One-time payment",
+    "instantAccess": "Immediately get access",
+    "unlockNow": "Unlock now",
+    "securePayment": "Secure payment guarantee",
+    "hideOptions": "Hide other options",
+    "showMoreOptions": "View other options",
+    "shareToGetCredits": "Share to get credits",
+    "watchAdToDownload": "Watch 30-second ad to download watermarked version (this time free)",
+    "rechargeCredits": "Recharge credits",
+    "close": "Close",
+    "watchingAd": "Ad Display",
+    "downloadStartsIn": "Download will start in",
+    "seconds": "seconds",
+    "downloadNow": "Download now",
+    "copy": "Copy",
+    "generatingTexture": "Generating texture...",
+    "pleaseWait": "Please wait while we process your image"
+  }
+}

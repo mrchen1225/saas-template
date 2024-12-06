@@ -1,0 +1,242 @@
+{
+  "Hero": {
+    "title1": "AI",
+    "title2": "ディスターバンス",
+    "title3": "オーバーレイ",
+    "description": "独自のAIテクスチャとフィルターであなたのアートを守ります"
+  },
+  "Intro": {
+    "title": "あなたのアートを守る時が来ました！",
+    "description1": "アーティストの皆さん！あなたの作品を守るために行動を起こす時です。MidJourneyやStable DiffusionなどのAI生成モデルは、許可なくアーティストの作品を学習し、著作権とプライバシーを侵害しています。あなたの独自のスタイルがAIの無料の燃料にならないようにしましょう。AIディスターバンス技術を今すぐ採用して、あなたのオリジナル作品を無断コピーや模倣から守りましょう。あなたの芸術的主権と創造的尊厳を守ってください。"
+  },
+  "ImageWall": {
+    "title": "ビジュアライゼーション"
+  },
+  "SocialProof": {
+    "maker": "アーティストたちがAIディスターバンスオーバーレイで作品を守っています"
+  },
+  "Feature": {
+    "title": "特徴"
+  },
+  "Pricing": {
+    "title": "料金",
+    "title2": "無制限アクセスを取得",
+    "description": "このツールのすべての機能をアンロック",
+    "doYouLike": "このツールは気に入りましたか？",
+    "follow": "私のTwitterをフォローしてください"
+  },
+  "WallOfLove": {
+    "title": "愛の壁",
+    "description1": "このツールを使用してTwitterで推薦していただける場合、",
+    "description2": "ぜひお知らせください",
+    "description3": "。あなたのツイートと推薦をここに表示します。"
+  },
+  "FAQ": {
+    "title": "よくある質問",
+    "description": "最もよく寄せられる質問をいくつか紹介します。"
+  },
+  "CTA": {
+    "title": "今すぐあなたのアート作品を守り、AIの力を解き放とう！",
+    "description1": "アップロード",
+    "description2": "あなたの作品を",
+    "description3": "AIと戦い",
+    "description4": "",
+    "description5": "保護し",
+    "description6": "あなたの作品に命を吹き込みましょう！"
+  },
+  "CTAButton": {
+    "title": "あなたの作品を守る"
+  },
+  "ProductsTable": {
+    "title": "画像",
+    "description": "況",
+    "image": "画像",
+    "createdAt": "作成日",
+    "id": "ID",
+    "status": "状態",
+    "actions": "アクション",
+    "showing": "表示中",
+    "of": "の",
+    "products": "画像",
+    "prev": "前へ",
+    "next": "次へ",
+    "product": {
+      "dateLocale": "ja-JP",
+      "invalidDate": "無効な日付",
+      "noDescription": "説明なし",
+      "status": {
+        "PAID": "支払済み",
+        "PROCESSING": "処理中",
+        "PROCESSED": "処理済み"
+      },
+      "processingTooltip": "確認のためにメールをご確認ください。24時間以内に結果をメールでお送りします。AIディスターバンスの画像が届かない場合は、support@aidisturbance.onlineまでメールでお問い合わせください。",
+      "pleaseWait": "お待ちください",
+      "download": "ダウンロード",
+      "protectNow": "今すぐ保護",
+      "toggleMenu": "メニュー切り替え",
+      "actions": "アクション",
+      "deleteSuccess": "画像が正常に削除されました",
+      "deleteFailed": "画像の削除に失敗しました",
+      "error": "エラー",
+      "delete": "削除"
+    }
+  },
+  "UploadNewPicture": {
+    "title": "新しい画像をアップロード",
+    "errorSelectFile": "アップロードする前にファイルを選択してください。",
+    "errorUpload": "画像のアップロードに失敗しました",
+    "errorSave": "画像の保存に失敗しました",
+    "dragDropText": "ここに画像をドラッグ＆ドロップするか、クリックして選択してください",
+    "selectedFile": "選択されたファイル",
+    "uploading": "アップロード中...",
+    "protectArtwork": "今すぐあなたの作品を保護"
+  },
+  "Overlay": {
+    "stepOneAlt": "ステップ1",
+    "stepTwoTip": "2. 画像の詳細を説明してください。",
+    "stepThreeTip": "3. 支払いを待っています。",
+    "signInButton": "画像を非公開にするにはサインインしてください",
+    "progress": "進捗",
+    "fetchPictureError": "画像情報の取得に失敗しました。",
+    "dataFetchError": "データの取得エラー：",
+    "referralProcessError": "紹介登録の処理に失敗しました：",
+    "signedUrlError": "署名付きURLの取得に失敗しました。",
+    "signedUrl": "署名付きURL",
+    "signedUrlDescription": "署名付きURLを取得するにはクリックしてください。",
+    "signedUrlButton": "署名付きURLを取得",
+    "stepOne": {
+      "title": "AIディスターバンスがもうすぐ完了します！",
+      "description": "画像の詳細を説明してください。",
+      "button": "最終ステップ",
+      "aiDisturbanceAlmostDone": "AIディスターバンスがもうすぐ完了します！",
+      "pictureNotFound": "画像が見つかりません",
+      "inputDescriptionPlaceholder": "画像の詳細を説明してください。"
+    },
+    "stepTwo": {
+      "title": "ステップ2",
+      "description": "画像の詳細を説明してください。",
+      "button": "次へ",
+      "free": {
+        "title": "無料で共有",
+        "description": "友達と共有すると、誰かが登録した場合10クレジットを獲得できます",
+        "buttonText": "共有リンクを生成",
+        "success": "共有リンクが生成されました。友達と共有しましょう！",
+        "failed": "共有リンクの生成に失敗しました。後でもう一度お試しください",
+        "copySuccess": "リンクがクリップボードにコピーされました",
+        "features": [
+          "完全無料",
+          "クレジットカード不要",
+          "サブクリプション不要"
+        ]
+      },
+      "payForOnce": {
+        "title": "1回限りの支払い",
+        "description": "1回限りの支払いです。月額プランへの登録をお勧めします",
+        "buttonText": "今すぐ支払う",
+        "price": "$2 / 1回",
+        "features": [
+          "他のリクエストなし",
+          "お試し用",
+          "サブスクリプション不要"
+        ],
+        "failed": "署名付きURLの取得に失敗しました。"
+      },
+      "useCredits": {
+        "title": "クレジットを使用",
+        "description": "クレジットを使用して支払うことができます。新規ユーザーは5クレジットを無料で獲得できます",
+        "buttonText": "クレジットを使用",
+        "price": "10クレジット / 1回",
+        "features": [
+          "友達と共有するとさらに10クレジットを獲得",
+          "月額$9.9で100クレジット / 月を獲得",
+          "月額$39で500クレジット / 月を獲得"
+        ],
+        "failed": "クレジットの使用に失敗しました。",
+        "confirm": "この画像を処理するために10クレジットを使用して��よろしいですか？",
+        "success": "成功！処理をお待ちください。約24時間かかります"
+      } 
+    },
+    "stepThree": {
+      "title": "成功！",
+      "description": "確認のためにメールをご確認ください。24時間以内に結果をメールでお送りします。",
+      "button": "ダウンロード",
+      "failed": "署名付きURLの取得に失敗しました。",
+      "status": "状態",
+      "processingSuccess": "処理成功",
+      "processingFailed": "処理失敗",
+      "processed": "処理済み",
+      "goToWorkbench": "ワークベンチへ移動"
+    }
+  },
+  "Workbench": {
+    "title": "ワークベンチ",
+    "footer": "© 2024 AI Disturbance. All rights reserved."
+  },
+  "Breadcrumb": {
+    "title": "ダッシュボード",
+    "allPictures": "すべての画像"
+  },
+  "Texture": {
+    "title": "AIディスターバンスオーバーレイ画像エディター",
+    "signInButton": "画像を非公開にするにはサインインしてください",
+    "loading": "画像を読み込んでいます...",
+    "imageIdNotProvided": "画像IDが提供されていません",
+    "fetchImageFailed": "画像の取得に失敗しました",
+    "errorFetchingImage": "画像の取得中にエラーが発生しました",
+    "referralProcessError": "紹介登録の処理に失敗しました",
+    "status": "ステータス"
+  },
+  "ImageEditor": {
+    "adjustTextureStrength": "テクスチャの歪み強度を調整:",
+    "adjustBlendStrength": "ブレンド強度を調整:",
+    "beforeDownloadAdjustedImage": "まず画像をアップロードしてください",
+    "downloadAdjustedImage": "調整された画像をダウンロード",
+    "selectStyle": "スタイルを選択",
+    "uploadCustomStyle": "カスタムスタイルをアップロード",
+    "chooseFile": "ファイルを選択",
+    "customStylePreview": "カスタムスタイルのプレビュー",
+    "insufficientCredits": "クレジット不足",
+    "insufficientCreditsDescription": "この画像をダウンロードするのに十分なクレジットがありません。以下のオプションから1つ選んでください：",
+    "oneTimePayment": "1回限りの支払い",
+    "rechargeCredits": "クレジットをチャージ",
+    "generatingTexture": "この画像のカスタムテクスチャを生成中です。お待ちください...",
+    "close": "閉じる",
+    "fetchPictureStatusError": "画像のステータス取得に失敗しました",
+    "creditsDeductedSuccess": "クレジットが正常に差し引かれました",
+    "creditsDeductionFailed": "クレジットの差し引きに失敗しました",
+    "error": "エラー",
+    "shareLinkGenerated": "共有リンクが正常に生成されました",
+    "shareLinkGenerationFailed": "共有リンクの生成に失敗しました",
+    "generateShareLink": "共有リンクを生成",
+    "generateShareLinkDescription": "共有リンクを生成し、友達と共有して10クレジットを獲得",
+    "shareLinkGeneratedMessage": "共有リンクが生成されました。友達と共有して10クレジットを獲得しましょう！",
+    "fileSizeError": "匿名ユーザーは1MB以下の画像のみアップロード可能です。すべての機能を使用するにはログインしてください",
+    "fileCheckError": "ファイルチェックに失敗しました。もう一度お試しください",
+    "joinDiscord": "Discordに参加して50クレジットを獲得",
+    "discordJoinSuccess": "Discordへの参加が完了しました！クレジットがアカウントに追加されました",
+    "discordJoinError": "Discordへの参加に失敗しました。後でもう一度お試しください",
+    "downloadImage": "画像をダウンロード",
+    "downloadOptions": "ダウンロードオプション",
+    "useCredits": "クレジットを使用して透かしなしバージョンをダウンロード",
+    "credits": "クレジット",
+    "yourCredits": "あなたのクレジット",
+    "unlockPremiumFeatures": "プレミアム機能のロック解除",
+    "benefit1": "この画像を即座に無制限にダウンロードする権利を取得",
+    "benefit2": "いつでも画像効果を調整し、完璧なアート効果を見つけることができます",
+    "benefit3": "オリジナルサイズ、高品質の透かしなしバージョンをすぐに入手",
+    "benefit4": "コップ一杯の水の価格で、あなたの芸術作品を永久に保護",
+    "oneTimePayment": "一回払い",
+    "instantAccess": "即時アクセス",
+    "unlockNow": "今すぐロック解除",
+    "securePayment": "安全な支払い保証",
+    "hideOptions": "他のオプションを隠す",
+    "showMoreOptions": "他のオプションを表示",
+    "shareToGetCredits": "シェアしてクレジットを獲得",
+    "watchAdToDownload": "30秒の広告を視聴して透かし入りバージョンをダウンロード（今回は無料）",
+    "watchingAd": "広告表示中",
+    "downloadStartsIn": "ダウンロード開始まで",
+    "seconds": "秒",
+    "downloadNow": "今すぐダウンロード",
+    "copy": "コピー"
+  }
+}

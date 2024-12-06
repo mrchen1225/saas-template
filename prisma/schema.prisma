@@ -1,0 +1,85 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider     = "prisma-client-js"
+  output       = "."
+  fileName     = "types.ts"
+  enumFileName = "enums.ts"
+}
+
+datasource db {
+  provider  = "postgresql"
+  url       = env("DATABASE_URL")
+  directUrl = env("DIRECT_URL")
+}
+
+model Picture {
+  id          String        @id @default(dbgenerated("gen_random_uuid()"))
+  userId      String        @db.VarChar(255)
+  description String?       @db.VarChar(8192)
+  tags        String[]
+  params      Json
+  url         String        @db.VarChar(4096)
+  status      PictureStatus
+  createdAt   DateTime      @default(now())
+  updatedAt   DateTime      @default(now())
+}
+
+model ShareLink {
+  id        String   @id @default(dbgenerated("gen_random_uuid()"))
+  userId    String
+  shareLink String   @unique
+  createdAt DateTime @default(now())
+  updatedAt DateTime @default(now())
+
+  activations ShareActivation[]
+}
+
+model ShareActivation {
+  id                String   @id @default(dbgenerated("gen_random_uuid()"))
+  shareLinkId       String
+  activatedByUserId String
+  activatedAt       DateTime @default(now())
+
+  shareLink ShareLink @relation(fields: [shareLinkId], references: [id])
+
+  @@unique([shareLinkId, activatedByUserId])
+}
+
+enum PictureStatus {
+  UPLOADED
+  DESCRIBED
+  PAID
+  PROCESSED
+  PROCESSING
+  PROCESSING_FAILED
+  PROCESSING_SUCCESS
+  DEIVERTED
+  DELETED
+}
+
+// 这里假设您已经有了其他必要的配置，如数据源等
+
+model BlogPost {
+  id          String         @id @default(dbgenerated("gen_random_uuid()"))
+  title       String
+  content     String         @db.Text
+  slug        String         @unique
+  status      BlogPostStatus
+  description String?        @db.VarChar(1000)
+  createdAt   DateTime       @default(now())
+  updatedAt   DateTime       @default(now())
+
+  @@map("BlogPost")
+}
+
+enum BlogPostStatus {
+  DRAFT
+  PUBLISHED
+  ARCHIVED
+  DELETED
+}
