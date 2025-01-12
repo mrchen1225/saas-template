@@ -1,5 +1,45 @@
 # Modern SaaS Template
 
+A modern SaaS tool template built with Next.js 14, featuring complete user authentication, payment system, and multi-language support.
+
+## 🌟 Features
+
+- 🚀 Built with Next.js 14 and React
+- 🔐 Integrated Clerk authentication system
+- 💳 Stripe payment integration
+- 🌍 Multi-language support
+- 🎨 Modern UI built with Tailwind CSS and NextUI
+- 🔄 Prisma ORM database integration
+- ☁️ Supabase storage integration
+- 📧 Email system support
+- 📊 Google Analytics integration
+- 💰 Google AdSense support
+
+## 🛠️ Tech Stack
+
+- **Frontend Framework**: Next.js 14
+- **UI Components**: NextUI, Radix UI
+- **Styling**: Tailwind CSS
+- **State Management**: React Hooks
+- **Database**: PostgreSQL + Prisma
+- **Authentication**: Clerk
+- **Payment**: Stripe
+- **Storage**: Supabase
+- **Deployment**: Vercel recommended
+
+## 🚀 Quick Start
+
+1. Clone the project
+git clone https://github.com/mrchen1225/saas-template.git
+cd saas-template
+2. Install dependencies
+npm install
+3. Run the project
+npm run dev
+
+
+# Modern SaaS Template
+
 一个现代化的SaaS工具站模板，基于Next.js 14构建，集成了完整的用户认证、支付系统和多语言支持。
 
 ## 🌟 特性
@@ -31,8 +71,8 @@
 
 1. 克隆项目
 ```bash
-git clone <your-repo-url>
-cd my-template
+git clone https://github.com/mrchen1225/saas-template.git
+cd saas-template
 ```
 
 2. 安装依赖
